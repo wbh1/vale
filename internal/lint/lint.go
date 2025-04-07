@@ -9,11 +9,11 @@ import (
 
 	"github.com/remeh/sizedwaitgroup"
 
-	"github.com/errata-ai/vale/v3/internal/check"
-	"github.com/errata-ai/vale/v3/internal/core"
-	"github.com/errata-ai/vale/v3/internal/glob"
-	"github.com/errata-ai/vale/v3/internal/nlp"
-	"github.com/errata-ai/vale/v3/internal/system"
+	"github.com/wbh1/vale/v3/internal/check"
+	"github.com/wbh1/vale/v3/internal/core"
+	"github.com/wbh1/vale/v3/internal/glob"
+	"github.com/wbh1/vale/v3/internal/nlp"
+	"github.com/wbh1/vale/v3/internal/system"
 )
 
 // A Linter lints a File.

@@ -12,9 +12,9 @@ import (
 
 	"github.com/jdkato/twine/summarize"
 
-	"github.com/errata-ai/vale/v3/internal/glob"
-	"github.com/errata-ai/vale/v3/internal/nlp"
-	"github.com/errata-ai/vale/v3/internal/system"
+	"github.com/wbh1/vale/v3/internal/glob"
+	"github.com/wbh1/vale/v3/internal/nlp"
+	"github.com/wbh1/vale/v3/internal/system"
 )
 
 var commentControlRE = regexp.MustCompile(`^vale (.+\..+|[^.]+) = (YES|NO|on|off)$`)

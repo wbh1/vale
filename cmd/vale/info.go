@@ -10,7 +10,7 @@ import (
 	"github.com/spf13/pflag"
 	"golang.org/x/exp/maps"
 
-	"github.com/errata-ai/vale/v3/internal/core"
+	"github.com/wbh1/vale/v3/internal/core"
 )
 
 var exampleConfig = `MinAlertLevel = suggestion

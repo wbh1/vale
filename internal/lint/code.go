@@ -7,10 +7,10 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/errata-ai/vale/v3/internal/core"
-	"github.com/errata-ai/vale/v3/internal/glob"
-	"github.com/errata-ai/vale/v3/internal/lint/code"
-	"github.com/errata-ai/vale/v3/internal/nlp"
+	"github.com/wbh1/vale/v3/internal/core"
+	"github.com/wbh1/vale/v3/internal/glob"
+	"github.com/wbh1/vale/v3/internal/lint/code"
+	"github.com/wbh1/vale/v3/internal/nlp"
 )
 
 func updateQueries(f *core.File, blueprints map[string]*core.Blueprint) ([]core.Scope, error) {

@@ -6,8 +6,8 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/errata-ai/vale/v3/internal/core"
-	"github.com/errata-ai/vale/v3/internal/system"
+	"github.com/wbh1/vale/v3/internal/core"
+	"github.com/wbh1/vale/v3/internal/system"
 )
 
 // XML configuration.

@@ -8,8 +8,8 @@ import (
 	"golang.org/x/exp/maps"
 
 	"github.com/errata-ai/regexp2"
-	"github.com/errata-ai/vale/v3/internal/core"
-	"github.com/errata-ai/vale/v3/internal/nlp"
+	"github.com/wbh1/vale/v3/internal/core"
+	"github.com/wbh1/vale/v3/internal/nlp"
 )
 
 // Substitution switches the values of Swap for its keys.

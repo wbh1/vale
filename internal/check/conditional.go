@@ -3,8 +3,8 @@ package check
 import (
 	"github.com/errata-ai/regexp2"
 
-	"github.com/errata-ai/vale/v3/internal/core"
-	"github.com/errata-ai/vale/v3/internal/nlp"
+	"github.com/wbh1/vale/v3/internal/core"
+	"github.com/wbh1/vale/v3/internal/nlp"
 )
 
 // Conditional ensures that the present of First ensures the present of Second.

@@ -9,8 +9,8 @@ import (
 
 	"github.com/errata-ai/ini"
 
-	"github.com/errata-ai/vale/v3/internal/glob"
-	"github.com/errata-ai/vale/v3/internal/system"
+	"github.com/wbh1/vale/v3/internal/glob"
+	"github.com/wbh1/vale/v3/internal/system"
 )
 
 var coreError = "'%s' is a core option; it should be defined above any syntax-specific options (`[...]`)."

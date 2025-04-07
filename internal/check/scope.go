@@ -3,8 +3,8 @@ package check
 import (
 	"strings"
 
-	"github.com/errata-ai/vale/v3/internal/core"
-	"github.com/errata-ai/vale/v3/internal/nlp"
+	"github.com/wbh1/vale/v3/internal/core"
+	"github.com/wbh1/vale/v3/internal/nlp"
 )
 
 // A Selector represents a named section of text.

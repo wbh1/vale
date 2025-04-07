@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/errata-ai/vale/v3/internal/core"
 	sitter "github.com/smacker/go-tree-sitter"
+	"github.com/wbh1/vale/v3/internal/core"
 )
 
 type padding func(string) int

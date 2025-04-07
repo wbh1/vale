@@ -58,3 +58,5 @@ require (
 	gopkg.in/neurosnap/sentences.v1 v1.0.7 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/errata-ai/vale/v3 v3.11.2 => github.com/wbh1/vale/v3 v3.11.3

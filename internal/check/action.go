@@ -14,7 +14,7 @@ import (
 	"github.com/d5/tengo/v2/stdlib"
 	"github.com/jdkato/twine/strcase"
 
-	"github.com/errata-ai/vale/v3/internal/core"
+	"github.com/wbh1/vale/v3/internal/core"
 )
 
 // Solution is a potential solution to an alert.

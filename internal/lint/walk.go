@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/net/html"
 
-	"github.com/errata-ai/vale/v3/internal/core"
-	"github.com/errata-ai/vale/v3/internal/nlp"
+	"github.com/wbh1/vale/v3/internal/core"
+	"github.com/wbh1/vale/v3/internal/nlp"
 )
 
 type walker struct {

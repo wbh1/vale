@@ -3,8 +3,8 @@ package code
 import (
 	"regexp"
 
-	"github.com/errata-ai/vale/v3/internal/core"
 	"github.com/smacker/go-tree-sitter/rust"
+	"github.com/wbh1/vale/v3/internal/core"
 )
 
 func Rust() *Language {

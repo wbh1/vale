@@ -7,8 +7,8 @@ import (
 	"github.com/errata-ai/regexp2"
 	"github.com/mitchellh/mapstructure"
 
-	"github.com/errata-ai/vale/v3/internal/core"
-	"github.com/errata-ai/vale/v3/internal/nlp"
+	"github.com/wbh1/vale/v3/internal/core"
+	"github.com/wbh1/vale/v3/internal/nlp"
 )
 
 type step struct {

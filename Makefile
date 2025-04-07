@@ -1,4 +1,4 @@
-PACKAGE_NAME          := github.com/errata-ai/vale/v3
+PACKAGE_NAME          := github.com/wbh1/vale/v3
 GOLANG_CROSS_VERSION  ?= v0.2.0
 
 SYSROOT_DIR     ?= sysroots

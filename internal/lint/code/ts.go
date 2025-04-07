@@ -3,8 +3,8 @@ package code
 import (
 	"regexp"
 
-	"github.com/errata-ai/vale/v3/internal/core"
 	"github.com/smacker/go-tree-sitter/typescript/typescript"
+	"github.com/wbh1/vale/v3/internal/core"
 )
 
 func TypeScript() *Language {
